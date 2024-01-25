@@ -1,0 +1,14 @@
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\bin\Debug\net8.0\sorteSimples.exe
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\bin\Debug\net8.0\sorteSimples.deps.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\bin\Debug\net8.0\sorteSimples.runtimeconfig.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\bin\Debug\net8.0\sorteSimples.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\bin\Debug\net8.0\sorteSimples.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\sorteSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\sorteSimples.AssemblyInfoInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\sorteSimples.AssemblyInfo.cs
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\sorteSimples.csproj.CoreCompileInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\sorteSimples.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\refint\sorteSimples.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\sorteSimples.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\sorteSimples.genruntimeconfig.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\sorteSimples\obj\Debug\net8.0\ref\sorteSimples.dll

@@ -1,0 +1,14 @@
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\bin\Debug\net8.0\distanciaEntreDoisPontos.exe
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\bin\Debug\net8.0\distanciaEntreDoisPontos.deps.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\bin\Debug\net8.0\distanciaEntreDoisPontos.runtimeconfig.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\bin\Debug\net8.0\distanciaEntreDoisPontos.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\bin\Debug\net8.0\distanciaEntreDoisPontos.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\distanciaEntreDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\distanciaEntreDoisPontos.AssemblyInfoInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\distanciaEntreDoisPontos.AssemblyInfo.cs
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\distanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\distanciaEntreDoisPontos.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\refint\distanciaEntreDoisPontos.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\distanciaEntreDoisPontos.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\distanciaEntreDoisPontos.genruntimeconfig.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\distanciaEntreDoisPontos\obj\Debug\net8.0\ref\distanciaEntreDoisPontos.dll
