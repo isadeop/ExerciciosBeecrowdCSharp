@@ -27,7 +27,7 @@ public class Program
         {
             int aux = x;
             x = y;
-            y = aux;
+            yc = aux;
         }
 
         if (y > z)
