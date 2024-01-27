@@ -1,0 +1,15 @@
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfo.cs
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\Tabuada.sourcelink.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\bin\Debug\net8.0\Tabuada.exe
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\bin\Debug\net8.0\Tabuada.deps.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\bin\Debug\net8.0\Tabuada.runtimeconfig.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\bin\Debug\net8.0\Tabuada.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\bin\Debug\net8.0\Tabuada.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\Tabuada.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\refint\Tabuada.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\Tabuada.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\Tabuada.genruntimeconfig.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Tabuada\obj\Debug\net8.0\ref\Tabuada.dll
