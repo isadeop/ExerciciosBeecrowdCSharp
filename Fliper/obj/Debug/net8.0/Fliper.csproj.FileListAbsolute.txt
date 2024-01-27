@@ -1,0 +1,15 @@
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\Fliper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\Fliper.AssemblyInfoInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\Fliper.AssemblyInfo.cs
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\Fliper.csproj.CoreCompileInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\Fliper.sourcelink.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\bin\Debug\net8.0\Fliper.exe
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\bin\Debug\net8.0\Fliper.deps.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\bin\Debug\net8.0\Fliper.runtimeconfig.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\bin\Debug\net8.0\Fliper.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\bin\Debug\net8.0\Fliper.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\Fliper.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\refint\Fliper.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\Fliper.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\Fliper.genruntimeconfig.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Fliper\obj\Debug\net8.0\ref\Fliper.dll
