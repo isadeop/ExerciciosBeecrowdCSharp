@@ -1,0 +1,15 @@
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\bin\Debug\net8.0\Coordenadas.exe
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\bin\Debug\net8.0\Coordenadas.deps.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\bin\Debug\net8.0\Coordenadas.runtimeconfig.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\bin\Debug\net8.0\Coordenadas.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\bin\Debug\net8.0\Coordenadas.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\Coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\Coordenadas.AssemblyInfoInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\Coordenadas.AssemblyInfo.cs
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\Coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\Coordenadas.sourcelink.json
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\Coordenadas.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\refint\Coordenadas.dll
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\Coordenadas.pdb
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\Coordenadas.genruntimeconfig.cache
+C:\Users\isado\OneDrive\Documentos\SharpCoders2023\C#\exerciciosBeecrowd\Coordenadas\obj\Debug\net8.0\ref\Coordenadas.dll
